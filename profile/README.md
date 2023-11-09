@@ -1,5 +1,5 @@
 # Key Dental Care: _Dental Clinic Application_
-<p align="center"><img align="center" src="" alt="Key Dental Care Logo"/></p>
+<p align="center"><img align="center" src="https://github.com/Fantasticten/.github/blob/main/profile/banner.png" alt="Key Dental Care Logo"/></p>
 
 # About Us
 We want to create an application that can help and handle a dental health clinic with a focus on the management system and user queue problems, as well as providing services in the form of consultations and features that can be implemented again.
