@@ -1,4 +1,25 @@
-## Hi there 👋
+# Key Dental Care: _Dental Clinic Application_
+<p align="center"><img align="center" src="" alt="Key Dental Care Logo"/></p>
+
+# About Us
+We want to create an application that can help and handle a dental health clinic with a focus on the management system and user queue problems, as well as providing services in the form of consultations and features that can be implemented again.
+
+<p align="center"><img align="center" src="" /></p>
+
+
+## Our Teams
+### Mobile Development Division
+| Name | University | Profile |
+|:----:|:----------:|:-------:|
+|Akhmad Nuryasin|Universitas Sains Al Quran||
+
+### Web Development Division
+| Name | University | Profile |
+|:----:|:----------:|:-------:|
+|Akhmad Nuryasin|Universitas Sains Al Quran||
+
+
+
 
 <!--
 
