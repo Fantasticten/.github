@@ -11,8 +11,8 @@ We want to create an application that can help and handle a dental health clinic
 ### Mobile Development Division
 | Name | University | Profile |
 |:----:|:----------:|:-------:|
-|Nova Safira|||
-|Adelia Rosa|||
+|Nova Safira|Politeknik Negeri Padang|[Linkedin](https://www.linkedin.com/in/nova-safira-4562b6287/)|
+|Adelia Rosa|Politeknik Negeri Sriwijaya|[Linkedin](https://www.linkedin.com/in/adelia-rosa-a65004251/)|
 |Isep Irmansyah|||
 |Aziz Zarkasyi Ramadhan|||
 |Muhamad Irpan|||
@@ -22,9 +22,9 @@ We want to create an application that can help and handle a dental health clinic
 |:----:|:----------:|:-------:|
 |Berliyan Sri Surani|Universitas Aki|[Linkedin](https://www.linkedin.com/in/berliyan-sri-surani-3bb540267/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)|
 |Akhmad Nuryasin|Universitas Sains Al Quran|[Linkedin](https://www.linkedin.com/in/akhmad-nuryasin-3378121b7/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)|
-|Ahmad Andre Alfiansyah|||
+|Ahmad Andre Alfiansyah|Universitas Amikom Yogyakarta|[Linkedin](https://www.linkedin.com/in/al-vyannn/)|
 |Sugiharto|Universitas Mikroskil|[Linkedin](https://www.linkedin.com/in/sugiharto-19064a211/)|
-|Rizqi Arya Muzaky|Universitas Sains Al Quran||
+|Rizqi Arya Muzaky|Universitas Sains Al Quran|[Linkedin](https://www.linkedin.com/in/rizqi-arya-muzaky-ab329b1b9/)|
 
 
 
