@@ -22,8 +22,7 @@ We want to create an application that can help and handle a dental health clinic
 |:----:|:----------:|:-------:|
 |Berliyan Sri Surani|Universitas Aki|[<img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/berliyan-sri-surani-3bb540267/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)|
 |Akhmad Nuryasin|Universitas Sains Al Quran|[<img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/akhmad-nuryasin-3378121b7/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)|
-|Ahmad Andre
-Alfiansyah|||
+|Ahmad Andre Alfiansyah|||
 |Sugiharto|||
 |Rizqi Arya Muzaky|Universitas Sains Al Quran||
 
