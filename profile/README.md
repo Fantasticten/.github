@@ -15,7 +15,7 @@ We want to create an application that can help and handle a dental health clinic
 |Adelia Rosa|Politeknik Negeri Sriwijaya|[Linkedin](https://www.linkedin.com/in/adelia-rosa-a65004251/)|
 |Isep Irmansyah|||
 |Aziz Zarkasyi Ramadhan|||
-|Muhamad Irpan|||
+|Muhamad Irpan|Sekolah Tinggi Teknologi Terpadu Nurul Fikri|[Linkedin](https://www.linkedin.com/in/muhamad-irpan-07a52a228)|
 
 ### Web Development Division
 | Name | University | Profile |
