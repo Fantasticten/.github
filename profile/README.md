@@ -13,7 +13,7 @@ We want to create an application that can help and handle a dental health clinic
 |:----:|:----------:|:-------:|
 |Nova Safira|Politeknik Negeri Padang|[Linkedin](https://www.linkedin.com/in/nova-safira-4562b6287/)|
 |Adelia Rosa|Politeknik Negeri Sriwijaya|[Linkedin](https://www.linkedin.com/in/adelia-rosa-a65004251/)|
-|Isep Irmansyah|||
+|Isep Irmansyah|Sekolah Tinggi Teknologi Terpadu Nurul Fikri|[Linkedin](https://www.linkedin.com/in/isep-irmansyah)|
 |Aziz Zarkasyi Ramadhan|||
 |Muhamad Irpan|Sekolah Tinggi Teknologi Terpadu Nurul Fikri|[Linkedin](https://www.linkedin.com/in/muhamad-irpan-07a52a228)|
 
